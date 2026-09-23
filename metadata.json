@@ -1,0 +1,6 @@
+{
+  "name": "ChargeEase - AI EV Charging Assistant",
+  "description": "AI-powered EV charging assistant for station recommendations, ML-based optimal charging time prediction, cost estimation, and GPS routing.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
